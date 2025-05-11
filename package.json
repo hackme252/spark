@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@axe-core/webdriverjs": "^4.7.2",
-    "@spark-ui/tabs": "^2.0.0",
+    "@spark-ui/tabs": "^9.4.8",
     "@spark-ui/theme-utils": "^3.0.0",
     "selenium-webdriver": "^4.10.0"
   },
